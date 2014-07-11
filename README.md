@@ -1,0 +1,1 @@
+Python scripts to process all the downloaded data coming from the BBVA REST API for the Big Data Challenge and for the gejson files generated from QGIS.
