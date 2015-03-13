@@ -3,10 +3,6 @@ import base64
 date_min = '201211'
 date_max = '201304'
 
-#app_id:innova-challenge-big-data-viz
-#app_key:061eb41cd6f662a0d607f04fdd1b3e7989de42a6
-headers = {"Authorization":base64.b64encode("innova-challenge-big-data-viz:061eb41cd6f662a0d607f04fdd1b3e7989de42a6")}
-
 '''
 boundaries found for Barcelona from shapefile
 (2.05246984172867, 2.228097219280712, 41.32116390842041, 41.449787646748064)
